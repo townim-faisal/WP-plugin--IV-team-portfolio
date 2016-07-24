@@ -1,0 +1,20 @@
+1. add carousel in single member page view
+2. add multiple images for a member 
+3. skill bars 
+4. filter team members by position
+5. view members by carousel
+6. carousel has animation IN and Out
+7. 15 image styles
+8. Multi-language
+9. Custom Field Key / Value
+10. Email Obfuscate by PHP 
+11. tel option for phone
+12. social icons(not added)
+13. fiter, carousel, grid, table view(table is not added now)
+14. responsive coloumns(should be done by theme checking)
+15. shortcode to view members in order, order by, groups, no. of entries, ID'S
+16. add custom field (not added till now)
+17. change feature names by settings
+
+
+form e ki ki ase, output, feature
